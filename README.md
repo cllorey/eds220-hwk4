@@ -2,6 +2,8 @@
 
 ![AP Photo/Etienne Laurent](/Users/courtneylorey/Desktop/GitHub/eds220/eds220-hwk4/data/ap25007862800451p.jpg)
 
+<img src="/Users/courtneylorey/Desktop/GitHub/eds220/eds220-hwk4/data/ap25007862800451p.jpg" alt="AP Photo/Etienne Laurent" width="500">
+
 Water is dropped by helicopter on the advancing Palisades Fire in the Pacific Palisades neighborhood of Los Angeles, Tuesday, Jan. 7, 2025.
 [AP Photo/Etienne Laurent](https://www.capradio.org/articles/2025/01/08/wildfires-latest-hundreds-of-thousands-without-power-as-wildfires-tear-across-california/)
 
