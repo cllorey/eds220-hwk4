@@ -1,11 +1,11 @@
 # Visualizing Fire Scars from the 2025 Eaton and Palisades Fires
 
-![AP Photo/Etienne Laurent](/Users/courtneylorey/Desktop/GitHub/eds220/eds220-hwk4/data/ap25007862800451p.jpg)
-
-<img src="/Users/courtneylorey/Desktop/GitHub/eds220/eds220-hwk4/data/ap25007862800451p.jpg" alt="AP Photo/Etienne Laurent" width="500">
+![AP Photo/Etienne Laurent](images/ap25007862800451p.jpg)
+<p align="center">
+  <a href="https://www.capradio.org/articles/2025/01/08/wildfires-latest-hundreds-of-thousands-without-power-as-wildfires-tear-across-california/">AP Photo/Etienne Laurent</a>
+</p>
 
 Water is dropped by helicopter on the advancing Palisades Fire in the Pacific Palisades neighborhood of Los Angeles, Tuesday, Jan. 7, 2025.
-[AP Photo/Etienne Laurent](https://www.capradio.org/articles/2025/01/08/wildfires-latest-hundreds-of-thousands-without-power-as-wildfires-tear-across-california/)
 
 ## About
 This repository contains a notebook hwk4-task2-false-color-LOREY.ipynb visualizing the January 2025 Eaton and Palisades fire scars. 
@@ -22,14 +22,12 @@ eds220-hwk4
 ```
 
 ## Data
-The data for this analysis is not housed in this repository. Landsat data collected after the fires (February 2025) was downloaded from the Microsoft Planetary Computer and clipped to an area surrounding the fire perimeters by the EDS 220 teaching team before being used locally. The specific file used in this exercise can be downloaded using [this link](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=sharing).
+The data for this analysis is not housed in this repository. Landsat data collected after the fires (February 2025) was downloaded from the Microsoft Planetary Computer and clipped to an area surrounding the fire perimeters by the EDS 220 teaching team before being used locally. The specific file used in this exercise can be downloaded using [this link](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=sharing). Data files:
+* `landsat8-2025-02-23-palisades-eaton.nc`   
+   
 
-Data files:
-* `landsat8-2025-02-23-palisades-eaton.nc`
 
-Fire perimeter data was retrieved from the [official LA County site](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) and used locally. 
-
-Data files:
+Fire perimeter data was retrieved from the [official LA County site](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) and used locally. Data files:
 * `Eaton_Perimeter_20250121.shp`
 * `Palisades_Perimieter_20250121.shp`
 
