@@ -20,7 +20,7 @@ eds220-hwk4
 ```
 
 ## Data
-The data for this analysis is not housed in this repository. Landsat data was downloaded from the Microsoft Planetary Computer and clipped to an area surrounding the fire perimeters by the EDS 220 teaching team before being used locally. The specific file used in this exercise can be downloaded using [this link](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=sharing).
+The data for this analysis is not housed in this repository. Landsat data collected after the fires (February 2025) was downloaded from the Microsoft Planetary Computer and clipped to an area surrounding the fire perimeters by the EDS 220 teaching team before being used locally. The specific file used in this exercise can be downloaded using [this link](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=sharing).
 
 Data files:
 * `landsat8-2025-02-23-palisades-eaton.nc`
@@ -36,8 +36,8 @@ Data files:
 
 ## References
 
-County of Los Angeles. (2025). *Palisades and Eaton Dissolved Fire Perimeters* [Data set]. LA County Open Data. Retrieved November 19, 2026, from [https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about)
+County of Los Angeles. (2025). *Palisades and Eaton Dissolved Fire Perimeters* [Data set]. LA County Open Data. Retrieved November 2026, from [https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about)
 
-County of Los Angeles. (n.d.). *Data and recovery tools* [dataset]. LA County Recovers. Retrieved November 19, 2026, from [https://recovery.lacounty.gov/data-recovery-tools/](https://recovery.lacounty.gov/data-recovery-tools/)
+County of Los Angeles. (n.d.). *Data and recovery tools* [dataset]. LA County Recovers. Retrieved November 2026, from [https://recovery.lacounty.gov/data-recovery-tools/](https://recovery.lacounty.gov/data-recovery-tools/)
 
-Microsoft Planetary Computer. (n.d.). *Landsat Collection 2 Level-2 atmospherically corrected surface reflectance data* [dataset]. Landsat Collection 2 Level-2. Retrieved November 19, 2026, from [https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2))
+Microsoft Planetary Computer. (February 2025). *Landsat Collection 2 Level-2 atmospherically corrected surface reflectance data* [dataset]. Landsat Collection 2 Level-2. Retrieved November 2026, from [https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2))
